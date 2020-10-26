@@ -1,0 +1,38 @@
+Body{
+    background-color: #e6e6fa ;
+    font-family: Arial, Verdana, sans-serif;
+}
+
+.title {
+    padding: 50px;
+    color: #e6e6fa;
+    background-color: #191970;
+    font-family: Georgia, 'Times New Roman',  serif;
+}
+
+.subtitle {
+    font-size: 20px;
+    color:#191970;
+    background-color: #aeaed4;
+    border-bottom: solid;
+    border-color: #191970;
+    border-bottom-style:  dashed;
+    font-family: Georgia, 'Times New Roman',  serif;
+    text-align: center;
+    padding: 3px;
+}
+
+li {
+    font-weight: bold;
+    color: #191970;
+}
+
+
+.conteudo {
+    margin-left: 30px;
+}
+
+.copyright {
+    font-size: 12px;
+    font-style: italic
+}
